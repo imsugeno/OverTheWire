@@ -9,3 +9,5 @@
 * bandit13 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 * bandit14 BfMYroe26WYalil77FoDi9qh59eK5xNr
 * bandit15 cluFn7wTiGryunymYOu4RcffSxQluehd
+* bandit19 IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+* bandit20 GbKksEFF4yrVs6il55v6gwY5aVje5f0j
